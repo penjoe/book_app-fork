@@ -121,7 +121,13 @@ Your entire application will be deployed on Heroku.
 * 1.0.0 20200420
     - Initial Repo created.
     - Initial tree/files added.
-    - Installed dependencies.  
+    - Installed dependencies.
+* 1.0.1 20200421  
+    - lab11-feature-01 branch created.  
+    - Initial server.js file setup serving public files.  
+* 1.0.2 20200421  
+    - lab11-feature-02 branch created.  
+
 
 ## License
 
@@ -147,10 +153,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 #### Lab 011
 
 * Feature #1 Load Time: 
-    Estimate of time needed to complete:  
-    Start time:  
-    Finish time:    
-    Actual time needed to complete:
+    Estimate of time needed to complete: 60 mins  
+    Start time: 0800  
+    Finish time: 0900        
+    Actual time needed to complete: 60 mins  
 
 * Feature #2 Search API: 
     Estimate of time needed to complete:  
