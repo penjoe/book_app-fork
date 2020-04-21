@@ -9,6 +9,8 @@ Your entire application will be deployed on Heroku.
 ------------------------------------------------------
 ### User Stories  
 
+[Project Trello Board](https://trello.com/b/tNwzJG11/a-book-wiki)  
+
 #### Lab 011
 * Feature 1
     - Load Time: As a user, I want my application to load quickly so that I have an enjoyable experience.  
@@ -16,27 +18,27 @@ Your entire application will be deployed on Heroku.
         - When: the user navigates to the home page  
         - Then: the index should load without a flash of unstyled content (FOUC)  
 * Feature 2  
-    - Search API  
+    - Search API: As a user, I want to search the Google Books API so that I can view the results of my search.    
         - Given: that the user enters a search query  
         - When: the user submits the search form  
         - Then: the search query should be included in a request to the Google Books API  
 * Feature 3  
-    - Browse Results:  
+    - Browse Results: As a user, I want to be able to browse the search results.  
         - Given: that the user enters a search query  
         - When: the user submits the search form  
         - Then: the first ten books should be displayed to the user  
 * Feature 4  
-    - Error Messages:  
+    - Error Messages: As a user, I want to view any error messages that occur during the usage of my book list application so that I know if something has gone wrong.  
         - Given: that the application is not functioning properly  
         - When: an error occurs  
         - Then: the user should receive feedback that something has gone wrong  
 * Feature 5  
-    - Deliver CSS:  
+    - Deliver CSS: As a user, I want a simple, clean looking UI so that my application is easy to navigate  
         - Given: that the user access the application on multiple platforms  
         - When: the user views the application  
         - Then: the interface should deliver CSS to the browser  
 * Feature 6  
-    - Home Page:  
+    - Home Page: As a user, I want the application to have a home page, so that I can see relevant information  
         - Soon, you will display a collection of books on the home page, For now, set up a welcome page, based on the app design.  
 
 #### Lab 012  
@@ -55,12 +57,12 @@ Your entire application will be deployed on Heroku.
         - When: the user clicks on a menu button  
         - Then: the user will be returned to the main page where all of the books from the collection are rendered.  
 * Feature 3  
-    - Add New Books  
+    - Add New Books: As a user, I want the ability to add new books to my application so that I can save search results.  
         - Given: that a user would like to expand their collection and is viewing search results  
         - When: the user clicks on a button to add a book to the database  
         - Then: the user should submit the form to add a new book  
 * Feature 4 / 5
-    - Consistent Design  
+    - Consistent Design: As a user, I want the application to be designed in a consistent way so that I do not experience any down time or slow load times.  
         - Given: that a user views the application  
         - When: the user interacts with the application  
         - Then: the application should load quickly and perform efficiently  
@@ -94,7 +96,7 @@ Your entire application will be deployed on Heroku.
 
 ### Installing
 * File can be cloned from the below github repository
-    - [lab-11 Repo](https://github.com/joseph-zabaleta/book_app)  
+    - [Book_App Repo](https://github.com/joseph-zabaleta/book_app)  
 
 ### Executing program
 * After cloning this file do the following:  
